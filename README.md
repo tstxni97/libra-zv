@@ -7,10 +7,10 @@
 [![CircleCI](https://circleci.com/gh/libra/libra.svg?style=shield)](https://circleci.com/gh/libra/libra)
 [![License](https://img.shields.io/badge/license-Apache-green.svg)](LICENSE.md)
 
-Libra Core implements a decentralized, programmable database which provides a financial infrastructure that can empower billions of people.
+Libra ZV implements a decentralized, programmable database which provides a financial infrastructure that can empower billions of people.
 
 ## Note to Developers
-* Libra Core is a prototype.
+* Libra ZV is a prototype.
 * The APIs are constantly evolving and designed to demonstrate types of functionality. Expect substantial changes before the release.
 * We’ve launched a testnet that is a live demonstration of an early prototype of the Libra Blockchain software.
 
@@ -25,7 +25,7 @@ Read our [Contributing guide](https://developers.libra.org/docs/community/contri
 * [Libra Protocol: Key Concepts](https://developers.libra.org/docs/libra-protocol)
 * [Life of a Transaction](https://developers.libra.org/docs/life-of-a-transaction)
 
-### Try Libra Core
+### Try Libra ZV
 * [My First Transaction](https://developers.libra.org/docs/my-first-transaction)
 * [Getting Started With Move](https://developers.libra.org/docs/move-overview)
 
@@ -39,7 +39,7 @@ Read our [Contributing guide](https://developers.libra.org/docs/community/contri
 
 ### Libra Codebase
 
-* [Libra Core Overview](https://developers.libra.org/docs/libra-core-overview)
+* [Libra ZV Overview](https://developers.libra.org/docs/libra-core-overview)
 * [Admission Control](https://developers.libra.org/docs/crates/admission-control)
 * [Bytecode Verifier](https://developers.libra.org/docs/crates/bytecode-verifier)
 * [Consensus](https://developers.libra.org/docs/crates/consensus)
@@ -60,4 +60,4 @@ Read our [Contributing guide](https://developers.libra.org/docs/community/contri
 
 ## License
 
-Libra Core is licensed as [Apache 2.0](https://github.com/libra/libra/blob/master/LICENSE).
+Libra ZV is licensed as [Apache 2.0](https://github.com/libra/libra/blob/master/LICENSE).
